@@ -20,6 +20,14 @@ I'm an engineer passionate about AI, natural language understanding, and buildin
 
 ---
 
+💼 **Professional Experience**
+- 5+ years in MLOps engineering
+- Currently working in Japan 🇯🇵
+- MLOps Engineer at [Amptalk](http://amptalk.co.jp/), focusing on ML infrastructure and deployment pipelines
+- Trilingual: Chinese 🇨🇳 | Japanese 🇯🇵 | English 🇺🇸
+
+---
+
 🔭 **Currently Exploring**
 - Foundation models & semantic search
 - Reinforcement Learning (RL) from AlphaGo to AGI
